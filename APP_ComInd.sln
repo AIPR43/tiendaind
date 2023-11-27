@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP_ComInd", "APP_SkyCoahuila\APP_ComInd.csproj", "{6F7AEA27-21AC-479A-98A0-30DC33EABB07}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{CD10F23A-CE6C-4922-872B-B791E9C42305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F7AEA27-21AC-479A-98A0-30DC33EABB07}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7AEA27-21AC-479A-98A0-30DC33EABB07}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{6F7AEA27-21AC-479A-98A0-30DC33EABB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7AEA27-21AC-479A-98A0-30DC33EABB07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD10F23A-CE6C-4922-872B-B791E9C42305}.Debug|Any CPU.ActiveCfg = Debug
+		{CD10F23A-CE6C-4922-872B-B791E9C42305}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {050A5805-A738-4425-B43D-F201B01595F1}
+	EndGlobalSection
+EndGlobal
